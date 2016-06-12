@@ -6,6 +6,7 @@ var opts = {
 	username : 'YOUR USERNAME',
 	password : 'YOUR PASSWORD',
 	plantOID : 'YOUR PLANT ID'
+	url : 'https://www.sunnyportal.com',
 }
 
 var month = 4;
