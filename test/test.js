@@ -3,6 +3,8 @@ var assert = require('assert');
 var SunnyPortal = require('../lib/sunnyportal')
 var opts = {
 	url : 'https://www.sunnyportal.com',
+	username : 'YOUR_USERNAME',
+	password : 'YOUR_PASSWORD'
 }
 var plantOID = 'xxx-xxxxxxxx-xxxxxxx-xxxx';
 var fakePlantOID = 'aaa';
